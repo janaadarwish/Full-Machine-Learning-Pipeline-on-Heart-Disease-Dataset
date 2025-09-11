@@ -57,12 +57,6 @@ The goal is to demonstrate an **end-to-end machine learning pipeline** and provi
 - Custom CSS styling for a modern and intuitive interface.  
 
 ---
-
-## **Installation & Running**
-1. Clone the repository:
-```bash
-git clone https://github.com/janaadarwish/Full-Machine-Learning-Pipeline-on-Heart-Disease-Dataset.git
-
 Author
 
 Name: Jana Amin Elsayed Amin
@@ -72,3 +66,9 @@ GitHub: https://github.com/janaadarwish
 
 LinkedIn: https://www.linkedin.com/in/jana-darwish-29613732b
 This project represents my first experience in practical machine learning, and I am excited to continue learning and improving my models.
+
+## **Installation & Running**
+1. Clone the repository:
+```bash
+git clone https://github.com/janaadarwish/Full-Machine-Learning-Pipeline-on-Heart-Disease-Dataset.git
+
