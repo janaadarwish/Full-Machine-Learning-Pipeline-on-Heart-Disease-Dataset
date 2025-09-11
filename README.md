@@ -64,7 +64,7 @@ Email: janaa.dariwsh@gmail.com
 
 GitHub: https://github.com/janaadarwish
 
-LinkedIn: https://www.linkedin.com/in/jana-darwish-29613732b
+LinkedIn: www.linkedin.com/in/jana-amin-29613732b
 This project represents my first experience in practical machine learning, and I am excited to continue learning and improving my models.
 
 ## **Installation & Running**
