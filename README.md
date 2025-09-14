@@ -20,17 +20,17 @@ The goal is to demonstrate an **end-to-end machine learning pipeline** and provi
 ## **Features Included**
 - Age  
 - Sex  
-- Chest Pain Type (`cp`)  
-- Resting Blood Pressure (`trestbps`)  
-- Serum Cholesterol (`chol`)  
-- Fasting Blood Sugar (`fbs`)  
-- Resting ECG (`restecg`)  
-- Maximum Heart Rate Achieved (`thalach`)  
-- Exercise Induced Angina (`exang`)  
-- ST Depression Induced by Exercise (`oldpeak`)  
-- Slope of Peak Exercise ST Segment (`slope`)  
-- Number of Major Vessels Colored (`ca`)  
-
+- Chest Pain Type (cp)  
+- Resting Blood Pressure (trestbps)  
+- Serum Cholesterol (chol)  
+- Fasting Blood Sugar (fbs)  
+- Resting ECG (restecg)  
+- Maximum Heart Rate Achieved (thalach)  
+- Exercise Induced Angina (exang)  
+- ST Depression Induced by Exercise (oldpeak)  
+- Slope of Peak Exercise ST Segment (slope)  
+- Number of Major Vessels Colored (ca)  
+- Thalassemia (thal)  
 ---
 
 ## **Project Workflow**
@@ -49,13 +49,7 @@ The goal is to demonstrate an **end-to-end machine learning pipeline** and provi
 
 ### 4️⃣ Model Evaluation
 - **Accuracy:** ~62.4% (varies based on train/test split).  
-- Additional metrics: **Precision, Recall, F1-score** (details in `results/evaluation_metrics.txt`).  
 - Performance is moderate; some classes may require further optimization.
-
-### 5️⃣ Deployment
-- Interactive **Streamlit web app** for real-time prediction based on user inputs.  
-- Custom CSS styling for a modern and intuitive interface.  
-
 ---
 Author
 
@@ -65,7 +59,6 @@ Email: janaa.dariwsh@gmail.com
 GitHub: https://github.com/janaadarwish
 
 LinkedIn: www.linkedin.com/in/jana-amin-29613732b
-This project represents my first experience in practical machine learning, and I am excited to continue learning and improving my models.
 
 ## **Installation & Running**
 1. Clone the repository:
